@@ -1,0 +1,13 @@
+/* Reset CSS */
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+section {
+    min-height: 800px;
+    background-color: #eee;
+}
